@@ -6,9 +6,9 @@
 * Write and think in 🇰🇷 Korean and 🇺🇸 English
 
 ### 🧰 Tools I use
-<p> <img src="https://skills.syvixor.com/api/icons?i=figma,notion,cursor,claude,gemini,n8n,github,python,databricks,slack&perline=10" alt="tools" /> </p>
+<p> <img src="https://skills.syvixor.com/api/icons?i=figma,cursor,github,claudeai,codex,googlegemini,n8n,sql,databricks,supabase,slack,confluence,notion&perline=13" alt="tools" /> </p>
 
-Figma · Cursor · Claude · Codex · Gemini · n8n · SQL · Databricks · Redash · Amplitude · Slack
+Figma · Cursor · GitHub · Claude · Codex · Gemini · Orca · n8n · SQL · Databricks · Supabase · Redash · Amplitude · Slack · Confluence · Notion
 
 <!--
 **cheeeunahn/cheeeunahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
