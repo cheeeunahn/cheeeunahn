@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi! Welcome to Chee Eun's Github! 🦄
+
+### 🧭 Who I am
+* Product manager (PM) at 삼쩜삼 (Jobis & Villains), a Korean fintech for tax refunds and government benefits
+* Came to product from UX research and industrial design
+* Write and think in 🇰🇷 Korean and 🇺🇸 English
+
+### 🧰 Tools I use
+<p> <img src="https://skills.syvixor.com/api/icons?i=figma,notion,cursor,claude,gemini,n8n,github,python,databricks,slack&perline=10" alt="tools" /> </p>
+
+Figma · Cursor · Claude · Codex · Gemini · n8n · SQL · Databricks · Redash · Amplitude · Slack
 
 <!--
 **cheeeunahn/cheeeunahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
